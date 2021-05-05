@@ -1,0 +1,47 @@
+/*Arquivo CSS*/
+
+body 
+{
+	font-family:Verdana;
+	font-size:2em;
+}
+
+section
+{
+	width:100%;
+	margin:auto;
+}
+
+aside
+{
+	width:30%;
+	height:500px;
+	background:#696969;
+	float:left;
+	color:#7FFFD4;
+}
+
+nav
+{
+	width:70%;
+	height:50px;
+	background:#008B8B;
+	float:right;
+	color:#7FFFD4;
+}
+
+main
+{
+	width:70%;
+	height:400px;
+	background:#FFDEAD;
+	float:left;
+}
+
+footer
+{
+	width:70%;
+	height:50px;
+	background:#8B4513;
+	float:left;
+}
